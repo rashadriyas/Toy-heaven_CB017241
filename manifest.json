@@ -1,0 +1,20 @@
+{
+  "name": "Toy Heaven",
+  "short_name": "Toy Heaven",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#02274c",
+  "icons": [
+    {
+      "src": "./images/LOGO F.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/LOGO F.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
